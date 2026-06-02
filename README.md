@@ -15,5 +15,6 @@ Wear OS games via GitHub Pages.
 | Crown Lockpick | https://zenirl.github.io/policies/lockpick.html |
 | Safecracker | https://zenirl.github.io/policies/safecracker.html |
 | Morse Tap | https://zenirl.github.io/policies/morse.html |
+| Step Pet | https://zenirl.github.io/policies/steppet.html |
 
 All policies are also published at the index page: https://zenirl.github.io/policies/
