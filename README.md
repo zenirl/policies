@@ -24,3 +24,9 @@ Wear OS games via GitHub Pages.
 | Bubble Level | https://zenirl.github.io/policies/level.html |
 
 All policies are also published at the index page: https://zenirl.github.io/policies/
+| Crown Ace | https://zenirl.github.io/policies/ace.html |
+| Rewind | https://zenirl.github.io/policies/rewind.html |
+| Beacon: Lighthouse Keeper | https://zenirl.github.io/policies/beacon.html |
+| Orbital: Crown Slingshot | https://zenirl.github.io/policies/orbital.html |
+| Echo | https://zenirl.github.io/policies/echo.html |
+| Firefly: Lantern Swarm | https://zenirl.github.io/policies/firefly.html |
